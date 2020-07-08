@@ -15,7 +15,7 @@ Unser Code besteht aus einem kleinem HTML-File und einem Docker-file. Unser Dock
 Damit wir unser Projekt builden können, haben wir Google Cloud ausgewählt. Google Cloud Platform ermöglicht es ganz einfach unsere Projekte zu builden. Wir können damit verschiedene Trigger aufsetzen die beim Auslösen das Projekt builden. Unser Haupttrigger ist, dass wenn ein Dockerfile gepushed wird, dass er dieses File automatisch builded.
 
 ## Continuous Integration
-Für CI haben wir uns für Jenkins entschieden. Bei unserer Recherche haben wir hauptsächlich nur Gutes gehört. Der Support der Community ist sehr hilfreich. Da wir Google Cloud verwenden, konnten wir ganz einfach Jenkins integrieren.
+Für CI wollten wir zunächst Jenkins verwenden. Bei unserer Recherche haben wir hauptsächlich nur Gutes gehört.
 
 ## Continuous Delivery
 Die Continous Delivery geschieht über Google Cloud Run. Dies ist ähnlich wie Kubernetes. Wie vorhin schon beim Build erwähnt, werden auch hier beim Trigger die Updates der Files ausgelöst. Google Cloud Run ist Teil der Google Cloud Platform und deshalb konnten wir dies auch relativ einfach integrieren.
