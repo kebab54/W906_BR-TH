@@ -3,7 +3,7 @@ W906 Thaqi Breitenmoser
 
 
 ## Planung
-
+In der Planung haben wir uns Gedanken gemacht, welche Tools wir für welchen Arbeittschritt entscheiden. Als Basis haben wir uns dann für Google Cloud Platform entschieden, da es nicht zu schwer aber auch nicht zu einfach ist. Ausserdem können wir auch ein anderes "Lösungsbeispiel" darstellen als die Anderen. Kevin hatte dafür noch ein Konto mit 300$ Testguthaben. Somit hatten wir genügend Ressourcen um uns in das Thema reinzufuchsen.
 
 ## Versionsverwaltung
 Für die Versionsverwaltung haben wir uns für Github entschieden. Der Grund dafür ist, dass wir von den verschiedenen Tools die es gibt, Github am besten kennen und einfach zu integrieren ist. Wir haben dafür die Repository "https://github.com/kebab8902/W906_BR-TH" erstellt.
