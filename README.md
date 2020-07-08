@@ -16,6 +16,6 @@ Für die Versionsverwaltung haben wir uns für Github entschieden. Der Grund daf
 
 
 ## Continuous Integration
-
+Für CI haben wir uns für Jenkins entschieden. Bei unserer Recherche haben wir hauptsächlich nur Gutes gehört. Der Support der Community ist sehr hilfreich. Da wir Google Cloud verwenden, konnten wir ganz einfach Jenkins integrieren. 
 
 ## Continuous Delivery
