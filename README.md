@@ -19,4 +19,4 @@ Damit wir unser Projekt builden können, haben wir Google Cloud ausgewählt. Goo
 Für CI haben wir uns für Jenkins entschieden. Bei unserer Recherche haben wir hauptsächlich nur Gutes gehört. Der Support der Community ist sehr hilfreich. Da wir Google Cloud verwenden, konnten wir ganz einfach Jenkins integrieren.
 
 ## Continuous Delivery
-Kubernetes
+Die Continous Delivery geschieht über Google Cloud Run. Dies ist ähnlich wie Kubernetes. Wie vorhin schon beim Build erwähnt, werden auch hier beim Trigger die Updates der Files ausgelöst. Google Cloud Run ist Teil der Google Cloud Platform und deshalb konnten wir dies auch relativ einfach integrieren.
